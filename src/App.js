@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="Rechnungssoftware">
       <header className="rechnungssoftware">
-        <h1 style={{text-align="center"}}> Rechnungssoftware </h1>
+        <h1 className="HEins"> Rechnungssoftware </h1>
             
     
       </header>
